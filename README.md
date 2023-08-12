@@ -1,5 +1,5 @@
 # TKatsoJaPostaa
-tää on nopee 5min projekti jossa olen tehnyt että videoita, kuvia voi ladata palvelimelle ja sitten se näyttää niitä etusivulla.
+tää on nopee 5min projekti jossa olen tehnyt että videoita, kuvia voi ladata palvelimelle ja sitten se näyttää niitä etusivulla. Ei ole panostettu css koodeihin koska tää oli 5min haaste tehdä tälläinen. Voit itse customoida tätä mutta muista jättää credittia!
 
 Tarvitset:
 

@@ -20,7 +20,7 @@ if(isset($_POST["submit"])) {
         $uploadOk = 0;
     }
 
-    // Yritä ladata tiedosto, jos tarkistukset ovat kunnossa
+    // YritÃ¤ ladata tiedosto, jos tarkistukset ovat kunnossa
     if ($uploadOk == 0) {
         echo "Valitettavasti tiedostoa ei voitu ladata.";
     } else {
@@ -39,7 +39,7 @@ type = "image/x-icon">
 
 <!DOCTYPE html>
 <html>
-<title>Thearex12.com - CustomCrew</title>
+<title>Thearex12.com - Lataa ja katso</title>
 <head>
     <style>
     .video-container video {
@@ -54,10 +54,10 @@ type = "image/x-icon">
 <form action="" method="post" enctype="multipart/form-data">
   Valitse video ladattavaksi:
   <input type="file" name="fileToUpload" id="fileToUpload">
-  <input type="submit" value="Lataa videosi Thearex12.com palvelimeen!" name="submit">
+  <input type="submit" value="Lataa videosi palvelimelle" name="submit">
 </form>
 
-<!-- Näytä ladatut videot -->
+<!-- NÃ¤ytÃ¤ ladatut videot -->
 <div class="video-container">
 <?php
 $videos = glob($target_dir . "*.*");

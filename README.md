@@ -10,3 +10,4 @@ Lataa nettisivu palvelimellesi php koodit.
 Luo videos kansio palvelimelle jossa on oikeudet 0777 tai rwxrwxrwx
 
 Voit käyttää koodia ihan vapaasti.
+Muista jättää credittia!
